@@ -1,7 +1,0 @@
-Correction in ER diagram.
-
-Error:
-Emergency_Contact (N) -- (1) Student
-
-Actual:
-Emergency_Contact (1) -- (N) Student
